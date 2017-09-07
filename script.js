@@ -1,7 +1,7 @@
 function generate() {
   // word lists
   var nounList = ["cat", "dog", "trombone", "apple", "duck", "robot", "solar flare", "dodecahedron", "diatom", "sausage"];
-  var verbList = ["ran on", "ninja-kicked", "karate-chopped", "];
+  var verbList = ["ran on", "ninja-kicked", "karate-chopped", "idled on"];
   var nounList2 = ["tree", "fence", "book", "concrete", "table"];
   
   // calculates how long each word list is
