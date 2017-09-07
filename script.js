@@ -1,3 +1,3 @@
 function generate() {
-  document.getElementById("quotebox").innerHTML("Hi");
+  document.getElementById("quotebox").innerHTML = "Hi!"
 }
