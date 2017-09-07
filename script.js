@@ -13,5 +13,5 @@ function generate() {
   var stringy = "The " + noun + " " + verb + " the " + noun2 + "."
   
   // sets the inner HTML of the quote box to the sentence just created
-  document.getElementById("quotebox").innerHTML = "Hi!"
-}
+  document.getElementById("quotebox").innerHTML = stringy;
+};
