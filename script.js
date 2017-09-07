@@ -2,9 +2,9 @@ function generate() {
   document.getElementById("quotebox").innerHTML = "Hi!"
 }
 
-var quotebox = document.getElementById("quotebox");
+// var quotebox = document.getElementById("quotebox");
 
-quotebox.onclick = function() {
-  };
+// quotebox.onclick = function() {
+//   };
 
-quotebox.addEventListener("click", myScript);
+// quotebox.addEventListener("click", myScript);
